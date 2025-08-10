@@ -62,7 +62,7 @@ def GetIsNonceValid(nonce: str, oculusId: str):
 
 @app.route("/", methods=["POST", "GET"])
 def main():
-    return "your not supposed to be here .."
+    return "Gay ASS MONTHER FUCKER GET OUT!!"
 
 
 # Replace https://auth-prod.gtag-cf.com/api/PlayFabAuthentication with this endpoint
